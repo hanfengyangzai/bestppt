@@ -13,6 +13,7 @@ Rapid design, automatic generation.
 No need to design templates yourself. Just one click and you can get the slideshow you want.
 
 [Demo video](https://bestppt.ai/uiImage/video-ppt.mp4)
+<iframe width="560" height="315" src="https://youtu.be/XeWW3sisOZI?si=dUL9bXytsk0N_Qxw" frameborder="0" allowfullscreen></iframe>
 
 # Start your Al journey with Bestppt
 [Bestppt website](https://bestppt.ai)
