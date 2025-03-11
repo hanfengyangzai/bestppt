@@ -12,8 +12,11 @@ Rapid design, automatic generation.
 # Massive templates are constantly updated
 No need to design templates yourself. Just one click and you can get the slideshow you want.
 
-[Demo video](https://bestppt.ai/uiImage/video-ppt.mp4)
-<video src="https://youtu.be/XeWW3sisOZI?si=dUL9bXytsk0N_Qxw" style="width: 100%;"></video>
+# Demo video
+https://github.com/user-attachments/assets/256f27e6-0218-4a59-aca8-6d4618ee63b9
+
+
+
 
 # Start your Al journey with Bestppt
 [Bestppt website](https://bestppt.ai)
